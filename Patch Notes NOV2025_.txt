@@ -1,0 +1,94 @@
+Fortnite Battle Royale v28.10 Update & Balance Changes
+Battle Royale Highlights
+Unvaulted: The Anvil Rocket Launcher has returned! Lock onto a vehicle target and fire a rocket in its direction. It is findable from the ground and Chests.
+
+New Items: Solid Snake is now unlockable. The EMP Stealth Camo and Cardboard Box have been added to the game. The EMP Stealth Camo allows you to activate invisibility for 20 seconds.
+
+Balance Updates (Weapons & Items)
+Enforcer AR: Received a slight increase in bullet speed, damage, and headshot damage to help it compete with other options.
+
+Reaper Sniper Rifle: Received a slight reduction in bullet speed and an increase in bullet drop, as many snipes were too easy to land with little counterplay.
+
+Hyper SMG: Received an increase in overall accuracy via tightened bullet spread.
+
+Ballistic Shield: Received a decrease in the damage required to stagger the holder. This loadout option was often too powerful compared to others, especially in Zero Build.
+
+Frenzy Auto Shotgun: Fire Rate was reduced from 2.5 to 2.2 and Headshot Multiplier was reduced from x1.75 to x1.65 to balance its close-range dominance.
+
+Shield Breaker EMP: Damage has been increased to make it more effective against shields.
+
+FlowBerries: Now grant more Shield than previously.
+
+Movement & Gameplay Updates
+Movement Speed Revert: Storm circle speed, sprint speed, and Energy regeneration have been reverted to match the same speed from Chapter 4. These reverted speeds better fit the current ideal pace of Fortnite BR.
+
+Chapter 5 Season 1 Mechanics: The season launched with new movement animations (procedural layering) and initially slower movement speeds for crouching and running, though the speeds have now been adjusted.
+
+Medallions: Society Medallion icons now stand out more on the map. Medallions now have a brief delay before Shield regen begins and slightly reduced regen rates.
+
+Locker UI Improvements
+Navigation: Added a new button on controllers and mouse/keyboard to scroll all the way to the top of the locker instantly.
+
+Wraps: Wraps now fully randomize to different wraps in each slot, instead of randomizing to one wrap for all slots.
+
+Visuals: The white outline on cosmetic locker icon images has been removed, and the "Favorites" heart icon now appears in the locker overview.
+
+Bug Fixes
+Snooty Steppes: Fixed an issue where players could sometimes be randomly eliminated while walking along the cliffside.
+
+Sniper Rifles: Fixed an issue that could cause your crosshair to flick in another direction while sliding and aiming down sights with a scoped Sniper Rifle.
+
+Sprint Bug: Fixed an issue where players were sometimes unable to sprint (often associated with using consumables like FlowBerry Fizz).
+
+Ranked Play: Fixed an issue that caused incorrect rank progress to display at the end of Ranked Battle Royale and Ranked Zero Build matches.
+
+Part 2: Expected RAG Answers (Gold Standard)
+Here is how your Agent should answer the questions based strictly on the text above.
+
+1. "What specific damage adjustments were made to the Reaper Sniper Rifle in the latest update?"
+
+Answer: The patch notes do not state that damage was adjusted. They specify that the Reaper Sniper Rifle received a reduction in bullet speed and an increase in bullet drop because shots were too easy to land.
+
+2. "Has the bug causing players to lose sprint functionality after using FlowBerry Fizz been resolved?"
+
+Answer: Yes, the patch notes list a fix for an issue where players were unable to sprint, which was a known issue often linked to consumable usage.
+
+3. "What are the exact spawn rate changes for the Shield Breaker EMP grenades?"
+
+INSUFFICIENT: I currently do not have specific information regarding "spawn rate changes" for the Shield Breaker EMP in my knowledge base. The notes only mention that its damage was increased.
+
+4. "List all weapons that were vaulted in the v28.10 patch notes."
+
+INSUFFICIENT: The provided text lists the Unvaulted weapon (Anvil Rocket Launcher) but does not contain a list of weapons that were vaulted in this specific update.
+
+5. "What new movement mechanics were introduced with the Chapter 5 Season 1 launch?"
+
+Answer: Chapter 5 Season 1 introduced new movement animations (procedural layering). While it initially changed movement speeds, the v28.10 update reverted sprint speed and energy regeneration to match Chapter 4 standards.
+
+6. "Did the developers reduce the reload speed of the Frenzy Auto Shotgun?"
+
+Answer: No, the patch notes do not mention reload speed. They state that the Fire Rate was reduced (2.5 to 2.2) and the Headshot Multiplier was reduced (x1.75 to x1.65).
+
+7. "What specific changes were made to the train's movement speed or route on the map?"
+
+INSUFFICIENT: I currently do not have information regarding changes to the train's speed or route in the retrieved patch notes.
+
+8. "Does the latest patch note mention any changes to the default running speed for player characters?"
+
+Answer: Yes, the notes confirm that sprint speed (and Storm circle speed) were reverted to match the speeds from Chapter 4.
+
+9. "What is the new health cap for the Ballistic Shield before it is temporarily disabled?"
+
+Answer: The patch notes state that there was a decrease in the damage required to stagger the holder, but they do not provide the exact numerical "health cap" or damage threshold.
+
+10. "Compare the fire rate changes between the Striker AR and the Nemesis AR."
+
+INSUFFICIENT: The provided context mentions changes to the Enforcer AR (bullet speed/damage), but does not contain specific fire rate changes or comparisons for the Striker AR or Nemesis AR.
+
+11. "Were there any specific fixes regarding the matchmaking errors in Ranked Zero Build?"
+
+Answer: Yes, a fix was implemented for an issue that caused incorrect rank progress to display at the end of Ranked Zero Build matches.
+
+12. "What UI improvements were added to the Locker tab in the most recent patch?"
+
+Answer: Improvements include a new "scroll to top" button, a fix for Wrap randomization so different slots get different wraps, and the removal of the white outline on cosmetic icons.
