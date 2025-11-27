@@ -1,0 +1,12 @@
+python-dotenv
+openai
+langchain
+faiss-cpu
+tqdm
+beautifulsoup4
+requests
+pandas
+tweepy
+regex
+pydantic
+numpy
