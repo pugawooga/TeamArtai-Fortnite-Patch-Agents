@@ -37,6 +37,7 @@ Includes a pipeline that generates AI videos reading the script using the fine-t
 NOTE:
 SFT is trained and run in Google Colab to leverage GPU resources. The VS Code project interfaces with its outputs but does not train the model locally. 
 The Video generator also limits language involving weapons, so parts of our script were cut off/not talked about
+REPLICATE_API_KEY must be added to COLAB secret key for video generation
 __________________________________________________________________________________________________________________________________
 High Level System Architecture 
 
