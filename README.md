@@ -82,7 +82,7 @@ venv\Scripts\activate   # Windows
 source venv/bin/activate  # Mac/Linux
 
 3️. Install Dependencies
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 
 If needed manually:
